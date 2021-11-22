@@ -33,4 +33,4 @@ The analysis of the election shows that:
   - Raymon Anthony Doane received 3.1% of the vote and 11,606 total votes.
 
 - Election results
--   With 272,892 total votes cast for this person, resulting in 73.8% of the vote the winner of the election was... Diana DeGette!
+  - With 272,892 total votes cast for this person, resulting in 73.8% of the vote the winner of the election was... Diana DeGette!
